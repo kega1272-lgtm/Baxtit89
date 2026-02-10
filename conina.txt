@@ -1,0 +1,10 @@
+#profile-title : 🌍 Utopia VPN
+#profile-update-interval : 24
+#announce : Проверяйте пинг❗️
+#support-url : https://t.me/sfgpic
+#subscription-userinfo : upload=0 download=0 total=0 expire=0
+vless://6bd2deb1-b002-4cf4-86de-8481d0de2dcc@103.27.157.83:8080?path=%2Fupload&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%E2%9A%A1%EF%B8%8F
+vless://6bd2deb1-b002-4cf4-86de-8481d0de2dcc@89.125.48.89:8080?path=%2Fupload&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+%E2%9A%A1%EF%B8%8F
+vless://6bd2deb1-b002-4cf4-86de-8481d0de2dcc@178.17.53.158:8080?path=%2Fupload&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://6bd2deb1-b002-4cf4-86de-8481d0de2dcc@31.129.55.179:8080?path=%2Fupload&security=none&encryption=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%5B%D0%AE%D1%82%D1%83%D0%B1+%D0%B1%D0%B5%D0%B7+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%5D
+vless://6bd2deb1-b002-4cf4-86de-8481d0de2dcc@178.130.47.71:8080?path=%2Fupload&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%D0%A1%D0%A8%D0%90
